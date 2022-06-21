@@ -1,5 +1,5 @@
 const contents = document.querySelectorAll(".content");
-const listItems = document.querySelectorAll('nav ul li');
+const listItems = document.querySelectorAll('nav ul li i');
 
 listItems.forEach((item, idx) => {
     item.addEventListener('click', () => {
