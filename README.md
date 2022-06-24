@@ -1,5 +1,6 @@
 # Mobile-Tab-Navigation
-Setup for Mobile Tab Navigation
+
+https://composer0.github.io/Mobile-Tab-Navigation/
 
 
 Draw in the class items of content to allow the manipulation of the banner image based on which icon is selected.
